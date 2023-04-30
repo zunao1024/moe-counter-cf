@@ -1,12 +1,12 @@
 name = "moe-counter-cf"
 type = "javascript"
-account_id = "<CF_ACCOUNT_ID>"
-zone_id = "<CF_ZONE_ID>"
+account_id = "b3d7e8da0a33960edebfdb5a8b062011"
+zone_id = "cedc2d88947d602bb8520bf86516c856"
 workers_dev = false
-route = "<YOUR_DOMAIN>/*"
+route = "count.zunao.tk/*"
 compatibility_date = "2022-03-12"
 kv_namespaces = [
-  { binding = "KV", id = "<CF_KV_ID>", preview_id = "<CF_PREVIEW_KV_ID>" },
+  { binding = "KV", id = "1403d790fa5f4a27a40949ccc9df6cf6"},
 ]
 
 [build]
