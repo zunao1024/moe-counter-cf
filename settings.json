@@ -1,7 +1,7 @@
 {
   "defaults": {
-    "theme": "gelbooru",
-    "length": 7,
+    "theme": "rule34",
+    "length": 8,
     "render": "auto"
   },
   "api": {
